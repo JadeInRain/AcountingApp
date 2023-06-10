@@ -1,0 +1,360 @@
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\bin\Debug\net7.0\appsettings.json
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\bin\Debug\net7.0\todo-api.staticwebassets.runtime.json
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\bin\Debug\net7.0\todo-api.exe
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\bin\Debug\net7.0\todo-api.deps.json
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\bin\Debug\net7.0\todo-api.runtimeconfig.json
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\bin\Debug\net7.0\todo-api.dll
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\bin\Debug\net7.0\todo-api.pdb
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\obj\Debug\net7.0\todo-api.csproj.AssemblyReference.cache
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\obj\Debug\net7.0\todo-api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\obj\Debug\net7.0\todo-api.AssemblyInfoInputs.cache
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\obj\Debug\net7.0\todo-api.AssemblyInfo.cs
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\obj\Debug\net7.0\todo-api.csproj.CoreCompileInputs.cache
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\obj\Debug\net7.0\todo-api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\obj\Debug\net7.0\todo-api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\obj\Debug\net7.0\staticwebassets\msbuild.todo-api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\obj\Debug\net7.0\staticwebassets\msbuild.build.todo-api.props
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.todo-api.props
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.todo-api.props
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\obj\Debug\net7.0\scopedcss\bundle\todo-api.styles.css
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\obj\Debug\net7.0\todo-api.csproj.CopyComplete
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\obj\Debug\net7.0\todo-api.dll
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\obj\Debug\net7.0\refint\todo-api.dll
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\obj\Debug\net7.0\todo-api.pdb
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\obj\Debug\net7.0\todo-api.genruntimeconfig.cache
+C:\Users\胡周荃\Desktop\2023\软构\ch09\ch09\todo-api\obj\Debug\net7.0\ref\todo-api.dll
+C:\Users\21921\Desktop\ch09\todo-api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\21921\Desktop\ch09\todo-api\bin\Debug\net7.0\appsettings.json
+C:\Users\21921\Desktop\ch09\todo-api\bin\Debug\net7.0\todo-api.staticwebassets.runtime.json
+C:\Users\21921\Desktop\ch09\todo-api\bin\Debug\net7.0\todo-api.exe
+C:\Users\21921\Desktop\ch09\todo-api\bin\Debug\net7.0\todo-api.deps.json
+C:\Users\21921\Desktop\ch09\todo-api\bin\Debug\net7.0\todo-api.runtimeconfig.json
+C:\Users\21921\Desktop\ch09\todo-api\bin\Debug\net7.0\todo-api.dll
+C:\Users\21921\Desktop\ch09\todo-api\bin\Debug\net7.0\todo-api.pdb
+C:\Users\21921\Desktop\ch09\todo-api\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\21921\Desktop\ch09\todo-api\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\21921\Desktop\ch09\todo-api\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\21921\Desktop\ch09\todo-api\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\21921\Desktop\ch09\todo-api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\21921\Desktop\ch09\todo-api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\21921\Desktop\ch09\todo-api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\21921\Desktop\ch09\todo-api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\21921\Desktop\ch09\todo-api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\21921\Desktop\ch09\todo-api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\21921\Desktop\ch09\todo-api\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\21921\Desktop\ch09\todo-api\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+C:\Users\21921\Desktop\ch09\todo-api\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\21921\Desktop\ch09\todo-api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\21921\Desktop\ch09\todo-api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\21921\Desktop\ch09\todo-api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\21921\Desktop\ch09\todo-api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\21921\Desktop\ch09\todo-api\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\21921\Desktop\ch09\todo-api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\21921\Desktop\ch09\todo-api\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\21921\Desktop\ch09\todo-api\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\21921\Desktop\ch09\todo-api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\21921\Desktop\ch09\todo-api\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\21921\Desktop\ch09\todo-api\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\21921\Desktop\ch09\todo-api\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\21921\Desktop\ch09\todo-api\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\21921\Desktop\ch09\todo-api\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\21921\Desktop\ch09\todo-api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\21921\Desktop\ch09\todo-api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\21921\Desktop\ch09\todo-api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\21921\Desktop\ch09\todo-api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\21921\Desktop\ch09\todo-api\obj\Debug\net7.0\todo-api.csproj.AssemblyReference.cache
+C:\Users\21921\Desktop\ch09\todo-api\obj\Debug\net7.0\todo-api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\21921\Desktop\ch09\todo-api\obj\Debug\net7.0\todo-api.AssemblyInfoInputs.cache
+C:\Users\21921\Desktop\ch09\todo-api\obj\Debug\net7.0\todo-api.AssemblyInfo.cs
+C:\Users\21921\Desktop\ch09\todo-api\obj\Debug\net7.0\todo-api.csproj.CoreCompileInputs.cache
+C:\Users\21921\Desktop\ch09\todo-api\obj\Debug\net7.0\todo-api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\21921\Desktop\ch09\todo-api\obj\Debug\net7.0\todo-api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\21921\Desktop\ch09\todo-api\obj\Debug\net7.0\staticwebassets\msbuild.todo-api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\21921\Desktop\ch09\todo-api\obj\Debug\net7.0\staticwebassets\msbuild.build.todo-api.props
+C:\Users\21921\Desktop\ch09\todo-api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.todo-api.props
+C:\Users\21921\Desktop\ch09\todo-api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.todo-api.props
+C:\Users\21921\Desktop\ch09\todo-api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\21921\Desktop\ch09\todo-api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\21921\Desktop\ch09\todo-api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\21921\Desktop\ch09\todo-api\obj\Debug\net7.0\scopedcss\bundle\todo-api.styles.css
+C:\Users\21921\Desktop\ch09\todo-api\obj\Debug\net7.0\todo-api.csproj.CopyComplete
+C:\Users\21921\Desktop\ch09\todo-api\obj\Debug\net7.0\todo-api.dll
+C:\Users\21921\Desktop\ch09\todo-api\obj\Debug\net7.0\refint\todo-api.dll
+C:\Users\21921\Desktop\ch09\todo-api\obj\Debug\net7.0\todo-api.pdb
+C:\Users\21921\Desktop\ch09\todo-api\obj\Debug\net7.0\todo-api.genruntimeconfig.cache
+C:\Users\21921\Desktop\ch09\todo-api\obj\Debug\net7.0\ref\todo-api.dll
+E:\TB\2023.06.07-2\ch09\todo-api\obj\Debug\net7.0\todo-api.csproj.AssemblyReference.cache
+E:\TB\2023.06.07-2\ch09\todo-api\obj\Debug\net7.0\todo-api.GeneratedMSBuildEditorConfig.editorconfig
+E:\TB\2023.06.07-2\ch09\todo-api\obj\Debug\net7.0\todo-api.AssemblyInfoInputs.cache
+E:\TB\2023.06.07-2\ch09\todo-api\obj\Debug\net7.0\todo-api.AssemblyInfo.cs
+E:\TB\2023.06.07-2\ch09\todo-api\obj\Debug\net7.0\todo-api.csproj.CoreCompileInputs.cache
+E:\TB\2023.06.07-2\ch09\todo-api\obj\Debug\net7.0\todo-api.MvcApplicationPartsAssemblyInfo.cs
+E:\TB\2023.06.07-2\ch09\todo-api\obj\Debug\net7.0\todo-api.MvcApplicationPartsAssemblyInfo.cache
+E:\TB\2023.06.07-2\ch09\todo-api\obj\Debug\net7.0\todo-api.dll
+E:\TB\2023.06.07-2\ch09\todo-api\obj\Debug\net7.0\refint\todo-api.dll
+E:\TB\2023.06.07-2\ch09\todo-api\obj\Debug\net7.0\todo-api.pdb
+E:\TB\2023.06.07-2\ch09\todo-api\bin\Debug\net7.0\appsettings.Development.json
+E:\TB\2023.06.07-2\ch09\todo-api\bin\Debug\net7.0\appsettings.json
+E:\TB\2023.06.07-2\ch09\todo-api\bin\Debug\net7.0\todo-api.staticwebassets.runtime.json
+E:\TB\2023.06.07-2\ch09\todo-api\bin\Debug\net7.0\todo-api.exe
+E:\TB\2023.06.07-2\ch09\todo-api\bin\Debug\net7.0\todo-api.deps.json
+E:\TB\2023.06.07-2\ch09\todo-api\bin\Debug\net7.0\todo-api.runtimeconfig.json
+E:\TB\2023.06.07-2\ch09\todo-api\bin\Debug\net7.0\todo-api.dll
+E:\TB\2023.06.07-2\ch09\todo-api\bin\Debug\net7.0\todo-api.pdb
+E:\TB\2023.06.07-2\ch09\todo-api\bin\Debug\net7.0\Google.Protobuf.dll
+E:\TB\2023.06.07-2\ch09\todo-api\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+E:\TB\2023.06.07-2\ch09\todo-api\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+E:\TB\2023.06.07-2\ch09\todo-api\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+E:\TB\2023.06.07-2\ch09\todo-api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\TB\2023.06.07-2\ch09\todo-api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\TB\2023.06.07-2\ch09\todo-api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\TB\2023.06.07-2\ch09\todo-api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\TB\2023.06.07-2\ch09\todo-api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\TB\2023.06.07-2\ch09\todo-api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\TB\2023.06.07-2\ch09\todo-api\bin\Debug\net7.0\MySql.Data.dll
+E:\TB\2023.06.07-2\ch09\todo-api\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+E:\TB\2023.06.07-2\ch09\todo-api\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+E:\TB\2023.06.07-2\ch09\todo-api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\TB\2023.06.07-2\ch09\todo-api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\TB\2023.06.07-2\ch09\todo-api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\TB\2023.06.07-2\ch09\todo-api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\TB\2023.06.07-2\ch09\todo-api\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\TB\2023.06.07-2\ch09\todo-api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\TB\2023.06.07-2\ch09\todo-api\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\TB\2023.06.07-2\ch09\todo-api\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\TB\2023.06.07-2\ch09\todo-api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\TB\2023.06.07-2\ch09\todo-api\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+E:\TB\2023.06.07-2\ch09\todo-api\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+E:\TB\2023.06.07-2\ch09\todo-api\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+E:\TB\2023.06.07-2\ch09\todo-api\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+E:\TB\2023.06.07-2\ch09\todo-api\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+E:\TB\2023.06.07-2\ch09\todo-api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\TB\2023.06.07-2\ch09\todo-api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\TB\2023.06.07-2\ch09\todo-api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\TB\2023.06.07-2\ch09\todo-api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\TB\2023.06.07-2\ch09\todo-api\obj\Debug\net7.0\staticwebassets\msbuild.todo-api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\TB\2023.06.07-2\ch09\todo-api\obj\Debug\net7.0\staticwebassets\msbuild.build.todo-api.props
+E:\TB\2023.06.07-2\ch09\todo-api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.todo-api.props
+E:\TB\2023.06.07-2\ch09\todo-api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.todo-api.props
+E:\TB\2023.06.07-2\ch09\todo-api\obj\Debug\net7.0\staticwebassets.pack.json
+E:\TB\2023.06.07-2\ch09\todo-api\obj\Debug\net7.0\staticwebassets.build.json
+E:\TB\2023.06.07-2\ch09\todo-api\obj\Debug\net7.0\staticwebassets.development.json
+E:\TB\2023.06.07-2\ch09\todo-api\obj\Debug\net7.0\scopedcss\bundle\todo-api.styles.css
+E:\TB\2023.06.07-2\ch09\todo-api\obj\Debug\net7.0\todo-api.csproj.CopyComplete
+E:\TB\2023.06.07-2\ch09\todo-api\obj\Debug\net7.0\todo-api.genruntimeconfig.cache
+E:\TB\2023.06.07-2\ch09\todo-api\obj\Debug\net7.0\ref\todo-api.dll
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\bin\Debug\net7.0\appsettings.json
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\bin\Debug\net7.0\todo-api.staticwebassets.runtime.json
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\bin\Debug\net7.0\todo-api.exe
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\bin\Debug\net7.0\todo-api.deps.json
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\bin\Debug\net7.0\todo-api.runtimeconfig.json
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\bin\Debug\net7.0\todo-api.dll
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\bin\Debug\net7.0\todo-api.pdb
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\obj\Debug\net7.0\todo-api.csproj.AssemblyReference.cache
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\obj\Debug\net7.0\todo-api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\obj\Debug\net7.0\todo-api.AssemblyInfoInputs.cache
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\obj\Debug\net7.0\todo-api.AssemblyInfo.cs
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\obj\Debug\net7.0\todo-api.csproj.CoreCompileInputs.cache
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\obj\Debug\net7.0\todo-api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\obj\Debug\net7.0\todo-api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\obj\Debug\net7.0\staticwebassets\msbuild.todo-api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\obj\Debug\net7.0\staticwebassets\msbuild.build.todo-api.props
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.todo-api.props
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.todo-api.props
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\obj\Debug\net7.0\scopedcss\bundle\todo-api.styles.css
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\obj\Debug\net7.0\todo-api.csproj.CopyComplete
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\obj\Debug\net7.0\todo-api.dll
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\obj\Debug\net7.0\refint\todo-api.dll
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\obj\Debug\net7.0\todo-api.pdb
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\obj\Debug\net7.0\todo-api.genruntimeconfig.cache
+C:\Users\欧阳开泰\Documents\Tencent Files\2727135280\FileRecv\2003.06.07-3\2003.06.07-3\ch09\todo-api\obj\Debug\net7.0\ref\todo-api.dll
+D:\软构\uniapp\ch09\todo-api\bin\Debug\net7.0\appsettings.Development.json
+D:\软构\uniapp\ch09\todo-api\bin\Debug\net7.0\appsettings.json
+D:\软构\uniapp\ch09\todo-api\bin\Debug\net7.0\todo-api.staticwebassets.runtime.json
+D:\软构\uniapp\ch09\todo-api\bin\Debug\net7.0\todo-api.exe
+D:\软构\uniapp\ch09\todo-api\bin\Debug\net7.0\todo-api.deps.json
+D:\软构\uniapp\ch09\todo-api\bin\Debug\net7.0\todo-api.runtimeconfig.json
+D:\软构\uniapp\ch09\todo-api\bin\Debug\net7.0\todo-api.dll
+D:\软构\uniapp\ch09\todo-api\bin\Debug\net7.0\todo-api.pdb
+D:\软构\uniapp\ch09\todo-api\bin\Debug\net7.0\Google.Protobuf.dll
+D:\软构\uniapp\ch09\todo-api\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+D:\软构\uniapp\ch09\todo-api\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+D:\软构\uniapp\ch09\todo-api\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+D:\软构\uniapp\ch09\todo-api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\软构\uniapp\ch09\todo-api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\软构\uniapp\ch09\todo-api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\软构\uniapp\ch09\todo-api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\软构\uniapp\ch09\todo-api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\软构\uniapp\ch09\todo-api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\软构\uniapp\ch09\todo-api\bin\Debug\net7.0\MySql.Data.dll
+D:\软构\uniapp\ch09\todo-api\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+D:\软构\uniapp\ch09\todo-api\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\软构\uniapp\ch09\todo-api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\软构\uniapp\ch09\todo-api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\软构\uniapp\ch09\todo-api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\软构\uniapp\ch09\todo-api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\软构\uniapp\ch09\todo-api\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\软构\uniapp\ch09\todo-api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\软构\uniapp\ch09\todo-api\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\软构\uniapp\ch09\todo-api\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\软构\uniapp\ch09\todo-api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\软构\uniapp\ch09\todo-api\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+D:\软构\uniapp\ch09\todo-api\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+D:\软构\uniapp\ch09\todo-api\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+D:\软构\uniapp\ch09\todo-api\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+D:\软构\uniapp\ch09\todo-api\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+D:\软构\uniapp\ch09\todo-api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\软构\uniapp\ch09\todo-api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\软构\uniapp\ch09\todo-api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\软构\uniapp\ch09\todo-api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\软构\uniapp\ch09\todo-api\obj\Debug\net7.0\todo-api.csproj.AssemblyReference.cache
+D:\软构\uniapp\ch09\todo-api\obj\Debug\net7.0\todo-api.GeneratedMSBuildEditorConfig.editorconfig
+D:\软构\uniapp\ch09\todo-api\obj\Debug\net7.0\todo-api.AssemblyInfoInputs.cache
+D:\软构\uniapp\ch09\todo-api\obj\Debug\net7.0\todo-api.AssemblyInfo.cs
+D:\软构\uniapp\ch09\todo-api\obj\Debug\net7.0\todo-api.csproj.CoreCompileInputs.cache
+D:\软构\uniapp\ch09\todo-api\obj\Debug\net7.0\todo-api.MvcApplicationPartsAssemblyInfo.cs
+D:\软构\uniapp\ch09\todo-api\obj\Debug\net7.0\todo-api.MvcApplicationPartsAssemblyInfo.cache
+D:\软构\uniapp\ch09\todo-api\obj\Debug\net7.0\staticwebassets\msbuild.todo-api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\软构\uniapp\ch09\todo-api\obj\Debug\net7.0\staticwebassets\msbuild.build.todo-api.props
+D:\软构\uniapp\ch09\todo-api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.todo-api.props
+D:\软构\uniapp\ch09\todo-api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.todo-api.props
+D:\软构\uniapp\ch09\todo-api\obj\Debug\net7.0\staticwebassets.pack.json
+D:\软构\uniapp\ch09\todo-api\obj\Debug\net7.0\staticwebassets.build.json
+D:\软构\uniapp\ch09\todo-api\obj\Debug\net7.0\staticwebassets.development.json
+D:\软构\uniapp\ch09\todo-api\obj\Debug\net7.0\scopedcss\bundle\todo-api.styles.css
+D:\软构\uniapp\ch09\todo-api\obj\Debug\net7.0\todo-api.csproj.CopyComplete
+D:\软构\uniapp\ch09\todo-api\obj\Debug\net7.0\todo-api.dll
+D:\软构\uniapp\ch09\todo-api\obj\Debug\net7.0\refint\todo-api.dll
+D:\软构\uniapp\ch09\todo-api\obj\Debug\net7.0\todo-api.pdb
+D:\软构\uniapp\ch09\todo-api\obj\Debug\net7.0\todo-api.genruntimeconfig.cache
+D:\软构\uniapp\ch09\todo-api\obj\Debug\net7.0\ref\todo-api.dll
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\bin\Debug\net7.0\appsettings.json
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\bin\Debug\net7.0\todo-api.staticwebassets.runtime.json
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\bin\Debug\net7.0\todo-api.exe
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\bin\Debug\net7.0\todo-api.deps.json
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\bin\Debug\net7.0\todo-api.runtimeconfig.json
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\bin\Debug\net7.0\todo-api.dll
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\bin\Debug\net7.0\todo-api.pdb
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\obj\Debug\net7.0\todo-api.csproj.AssemblyReference.cache
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\obj\Debug\net7.0\todo-api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\obj\Debug\net7.0\todo-api.AssemblyInfoInputs.cache
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\obj\Debug\net7.0\todo-api.AssemblyInfo.cs
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\obj\Debug\net7.0\todo-api.csproj.CoreCompileInputs.cache
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\obj\Debug\net7.0\todo-api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\obj\Debug\net7.0\todo-api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\obj\Debug\net7.0\staticwebassets\msbuild.todo-api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\obj\Debug\net7.0\staticwebassets\msbuild.build.todo-api.props
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.todo-api.props
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.todo-api.props
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\obj\Debug\net7.0\scopedcss\bundle\todo-api.styles.css
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\obj\Debug\net7.0\todo-api.csproj.CopyComplete
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\obj\Debug\net7.0\todo-api.dll
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\obj\Debug\net7.0\refint\todo-api.dll
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\obj\Debug\net7.0\todo-api.pdb
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\obj\Debug\net7.0\todo-api.genruntimeconfig.cache
+C:\Users\21921\Desktop\uniapp\ch09\todo-api\obj\Debug\net7.0\ref\todo-api.dll

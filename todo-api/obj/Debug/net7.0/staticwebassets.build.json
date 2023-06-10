@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "L2LXc386BaUqlUo/5Bwv+fUWp98Z9wfym8g6SMNObmI=",
+  "Source": "todo-api",
+  "BasePath": "_content/todo-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "todo-api\\wwwroot",
+      "Source": "todo-api",
+      "ContentRoot": "C:\\Users\\21921\\Desktop\\uniapp\\ch09\\todo-api\\wwwroot\\",
+      "BasePath": "_content/todo-api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\21921\\Desktop\\uniapp\\ch09\\todo-api\\wwwroot\\index.html",
+      "SourceId": "todo-api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\21921\\Desktop\\uniapp\\ch09\\todo-api\\wwwroot\\",
+      "BasePath": "_content/todo-api",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
